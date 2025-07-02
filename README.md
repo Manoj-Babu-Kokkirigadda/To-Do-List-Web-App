@@ -6,7 +6,7 @@ A full-stack To-Do List web application built using the **MERN** stack (MongoDB,
 
 ## 🌐 Live Demo
 
-- Frontend (Vercel/Netlify): [Live URL](#)
+- Frontend (Vercel/Netlify): [Live URL](https://focused-action-plan.lovable.app)
 - Backend API (Render/Railway): [API Endpoint](#)
 
 ---
